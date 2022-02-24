@@ -6,5 +6,6 @@ public class Person {
     private String id;
     private Integer age;
     private String email;
+    private Integer phone;
 
 }
