@@ -5,6 +5,4 @@ public class Person {
     private String adress;
     private String id;
     private Integer age;
-
-
 }
